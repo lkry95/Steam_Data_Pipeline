@@ -16,7 +16,7 @@ How it Works:
 (In Progress)
 
 Technologies Used:
-•	Python
+* Python
 •	Pandas
 •	Jupyter Notebook
 •	Apache Airflow
