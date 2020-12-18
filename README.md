@@ -17,6 +17,7 @@ How it Works:
 (In Progress)
 
 Technologies Used:
+
 • Python
 • Pandas
 •	Jupyter Notebook
