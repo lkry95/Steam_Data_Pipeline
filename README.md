@@ -16,12 +16,12 @@ send me an email with a list of discounted games that meet my predefined specifi
 ## How it Works: ##
 (In Progress)
 
-## Technologies Used: ##
-• Python 
-• Pandas
-•	Jupyter Notebook
-•	Apache Airflow
-•	DAGs
-•	MySQL
-•	AWS S3
+## Technologies Used: ## 
+  * Python 
+  * Pandas
+  *	Jupyter Notebook
+  *	Apache Airflow
+  *	DAGs
+  *	MySQL
+  *	AWS S3
 
