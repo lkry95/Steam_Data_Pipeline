@@ -16,8 +16,8 @@ How it Works:
 (In Progress)
 
 Technologies Used:
-*Python
-*Pandas
+• Python
+• Pandas
 •	Jupyter Notebook
 •	Apache Airflow
 •	DAGs
