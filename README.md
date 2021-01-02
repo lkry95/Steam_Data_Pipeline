@@ -1,6 +1,6 @@
 # Steam_Alert_Deals
 
-**Insert Picture of DAG Graph View** 
+![](Steam_Data_Pipeline.png)
 
 ## Project Description: ##
 This project utilizes various technologies like Apache Airflow, DAGs, Jupyter Notebook, Pandas, MySQL and AWS S3 to build
