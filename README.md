@@ -1,6 +1,6 @@
 # Steam_Data_Pipeline
 
-![](steam_airflow_pipeline.png)
+![](steam_airflow_data_pipeline.png)
 
 ## About: ##
 I always wanted to automate my daily routine of checking Steam.com and searching for daily discounts and deals on PC games. 
