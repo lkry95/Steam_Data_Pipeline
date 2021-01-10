@@ -14,6 +14,8 @@ This project utilizes various technologies like Apache Airflow, DAGs, Jupyter No
 an end to end data pipeline for extracting data using Web Scraping and then processing the data in the pipeline by using
 Jupyter Notebook and Pandas. The final output is uploaded on an AWS S3 bucket. The pipeline is scheduled to run on a daily basis.
 
+![](email_alert.png)
+
 ## Use Case: ##
 I wanted to automate the process of looking at Steam's website for daily discounts on PC games. This
 data pipeline will extract the data through web scraping off Steam's website, clean the data, and then
