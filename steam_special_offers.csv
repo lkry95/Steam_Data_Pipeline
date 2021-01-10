@@ -1,51 +1,51 @@
-Title,Release_Date,Reviews,Original_Price ($),Percent_Discount (%),Discounted_Price ($)
-Counter-Strike: Global Offensive,Aug 21. 2012,Very Positive,Free to Play,,Free to Play
-The Sims™ 4,Jun 18. 2020,Very Positive,$39.99,-88%,4.79                    
-Sea of Thieves,Jun 3. 2020,Very Positive,$39.99,-50%,19.99                    
-Rust,Feb 8. 2018,Very Positive,$39.99,-33%,26.79                    
-The Elder Scrolls® Online,May 22. 2017,Very Positive,$19.99,-60%,7.99                    
-Hades,Sep 17. 2020,Overwhelmingly Positive,$24.99,-20%,19.99                    
-Sid Meier’s Civilization® VI,Oct 20. 2016,Very Positive,$59.99,-75%,14.99                    
-Grand Theft Auto V,Apr 13. 2015,Very Positive,$29.99,-50%,14.99                    
-Tom Clancy's Rainbow Six® Siege,Dec 1. 2015,Very Positive,$19.99,-60%,7.99                    
-Red Dead Redemption 2,Dec 5. 2019,Very Positive,$59.99,-33%,40.19                    
-Raft,May 23. 2018,Very Positive,$19.99,-33%,13.39                    
-Halo: The Master Chief Collection,Dec 3. 2019,Very Positive,$39.99,-40%,23.99                    
-Phasmophobia,Sep 18. 2020,Overwhelmingly Positive,$13.99,-10%,12.59                    
-Horizon Zero Dawn™ Complete Edition,Aug 7. 2020,Mostly Positive,$49.99,-20%,39.99                    
-DOOM Eternal,Mar 19. 2020,Very Positive,$59.99,-67%,19.79                    
-Borderlands 3,Mar 13. 2020,Very Positive,$59.99,-67%,19.79                    
-Monster Hunter: World,Aug 9. 2018,Very Positive,$29.99,-34%,19.79                    
-Sid Meier's Civilization VI : Platinum Edition,,Very Positive,$167.91,-76%,39.69                    
-ARK: Survival Evolved,Aug 27. 2017,Mostly Positive,$49.99,-80%,9.99                    
-Dead by Daylight,Jun 14. 2016,Very Positive,$19.99,-60%,7.99                    
-Black Desert Online,May 24. 2017,Mostly Positive,$9.99,-70%,2.99                    
-The Forest,Apr 30. 2018,Very Positive,$19.99,-50%,9.99                    
-Total War: WARHAMMER II,Sep 28. 2017,Very Positive,$59.99,-66%,20.39                    
-Stellaris,May 9. 2016,Very Positive,$39.99,-75%,9.99                    
-Stardew Valley,Feb 26. 2016,Overwhelmingly Positive,$14.99,-33%,9.99                    
-Among Us,Nov 16. 2018,Overwhelmingly Positive,$4.99,-20%,3.99                    
-Team Fortress 2,Oct 10. 2007,Very Positive,Free to Play,,Free to Play
-STAR WARS Jedi: Fallen Order™,Nov 14. 2019,Very Positive,$59.99,-60%,23.99                    
-Deep Rock Galactic,May 13. 2020,Overwhelmingly Positive,$29.99,-30%,20.99                    
-Planet Zoo,Nov 5. 2019,Very Positive,$44.99,-50%,22.49                    
-Cities: Skylines,Mar 10. 2015,Very Positive,$29.99,-75%,7.49                    
-STAR WARS™: Squadrons,Oct 1. 2020,Mostly Positive,$39.99,-40%,23.99                    
-The Elder Scrolls V: Skyrim Special Edition,Oct 27. 2016,Very Positive,$39.99,-60%,15.99                    
-Crusader Kings III,Sep 1. 2020,Very Positive,$49.99,-20%,39.99                    
-Satisfactory,Jun 8. 2020,Overwhelmingly Positive,$29.99,-20%,23.99                    
-STAR WARS™ Battlefront™ II,Jun 11. 2020,Very Positive,$39.99,-70%,11.99                    
-DARK SOULS™ III,Apr 11. 2016,Very Positive,$59.99,-75%,14.99                    
-No Man's Sky,Aug 12. 2016,Mixed,$59.99,-50%,29.99                    
-DayZ,Dec 13. 2018,Mixed,$44.99,-50%,22.49                    
-Monster Hunter World: Iceborne,Jan 9. 2020,Mixed,$39.99,-38%,24.79                    
-theHunter: Call of the Wild™,Feb 16. 2017,Very Positive,$19.99,-70%,5.99                    
-Fallout 76,Apr 14. 2020,Mostly Positive,$39.99,-67%,13.19                    
-Risk of Rain 2,Aug 11. 2020,Overwhelmingly Positive,$24.99,-20%,19.99                    
-Half-Life: Alyx,Mar 23. 2020,Overwhelmingly Positive,$59.99,-25%,44.99                    
-The Witcher 3: Wild Hunt - Game of the Year Edition,Aug 30. 2016,Overwhelmingly Positive,$49.99,-70%,14.99                    
-Tabletop Simulator,Jun 5. 2015,Overwhelmingly Positive,$19.99,-50%,9.99                    
-Fall Guys: Ultimate Knockout,Aug 3. 2020,Very Positive,$19.99,-20%,15.99                    
-Yakuza: Like a Dragon,Nov 10. 2020,Overwhelmingly Positive,$59.99,-25%,44.99                    
-The Witcher® 3: Wild Hunt,May 18. 2015,Overwhelmingly Positive,$39.99,-70%,11.99                    
-EA SPORTS™ FIFA 21,Oct 8. 2020,Mostly Positive,$79.99,-63%,29.59                    
+,Title,Release_Date,Reviews,Original_Price ($),Percent_Discount (%),Discounted_Price ($)
+0,Rust,"Feb 8, 2018",Very Positive,39.99,33,26.79
+1,Pavlov VR,"Feb 27, 2017",Very Positive,24.99,40,14.99
+2,Due Process,"Nov 3, 2020",Very Positive,24.99,50,12.49
+3,Planetary Annihilation: TITANS,"Aug 18, 2015",Very Positive,29.99,75,7.5
+4,"Crash Bandicoot™ N, Sane Trilogy","Jun 29, 2018",Very Positive,39.99,50,19.99
+5,Rust - Instruments Pack,"Dec 5, 2019",Very Positive,9.99,33,6.69
+6,Rust - Sunburn Pack,"Jul 9, 2020",Very Positive,9.99,33,6.69
+7,Roboquest,"Aug 20, 2020",Overwhelmingly Positive,19.99,20,15.99
+8,Cooking Simulator,"Jun 6, 2019",Very Positive,19.99,40,11.99
+9,The Coma: Back to School Bundle,N/A,Very Positive,41.94,67,13.92
+10,VEGAS Pro 14 Edit Steam Edition,"Sep 30, 2016",Very Positive,199.00,72,55.72
+11,Tom Clancy’s The Division™,"Mar 7, 2016",Mixed,29.99,67,9.89
+12,The Coma 2: Vicious Sisters,"Jan 28, 2020",Overwhelmingly Positive,14.99,50,7.49
+13,Blacksmith of the Sand Kingdom,"Jan 6, 2021",Mostly Positive,19.99,10,17.99
+14,Witch It,"Oct 22, 2020",Very Positive,19.99,50,9.99
+15,Amazing Cultivation Simulator,"Nov 24, 2020",Very Positive,24.99,10,22.49
+16,Cooking Simulator Complete Bundle!,N/A,Very Positive,50.96,36,32.69
+17,Rise to Ruins,"Oct 14, 2019",Very Positive,14.99,50,7.49
+18,Trine 4: The Nightmare Prince,"Oct 8, 2019",Very Positive,29.99,75,7.49
+19,Ultimate Fishing Simulator,"Aug 30, 2018",Very Positive,19.99,60,7.99
+20,Partisans 1941,"Oct 14, 2020",Very Positive,29.99,20,23.99
+21,Nimbatus - The Space Drone Constructor,"May 14, 2020",Very Positive,19.99,30,13.99
+22,Facepunch Complete Bundle,N/A,Very Positive,94.94,29,67.62
+23,Summer Memories+ - Expansion DLC,"Jan 8, 2021",Very Positive,9.99,10,8.99
+24,HUMANKIND™,April 22nd 2021,No user reviews,59.99,17,49.79
+25,The Coma: Recut,"Sep 22, 2017",Very Positive,14.99,75,3.74
+26,SONG OF HORROR COMPLETE EDITION,"Oct 31, 2019",Very Positive,29.99,40,17.99
+27,Trine: Ultimate Collection,N/A,Very Positive,86.96,80,17.36
+28,Youtubers Life,"Feb 2, 2017",Mostly Positive,24.99,67,8.24
+29,Atelier Ryza 2: Lost Legends & the Secret Fairy,"Jan 25, 2021",No user reviews,59.99,10,53.99
+30,Red Matter,"Nov 10, 2018",Very Positive,24.99,40,14.99
+31,Ultimate Fishing Simulator - Gold Edition,N/A,Very Positive,55.91,60,22.11
+32,Odd Realm,"Jan 10, 2019",Very Positive,9.99,25,7.49
+33,Cooking Simulator - Pizza,"Nov 12, 2020",Mostly Positive,11.99,20,9.59
+34,Ultimate Fishing Simulator VR,"Nov 15, 2019",Very Positive,29.99,60,11.99
+35,Cobra Kai: The Karate Kid Saga Continues,"Jan 5, 2021",Very Positive,19.99,15,16.99
+36,CryoFall,"Apr 3, 2019",Mostly Positive,19.99,70,5.99
+37,Frostpunk: The Last Autumn,"Jan 21, 2020",Mostly Positive,16.99,0,16.99
+38,Iron Conflict,"Jan 7, 2021",Mostly Positive,14.99,10,13.49
+39,Frostpunk: Season Pass,N/A,Mixed,34.97,30,24.47
+40,Hero by Chance,"Jan 8, 2021",Very Positive,1.99,31,1.37
+41,Road Redemption,"Oct 4, 2017",Very Positive,19.99,65,6.99
+42,Frostpunk: On The Edge,"Aug 20, 2020",Mixed,12.99,0,12.99
+43,Trine 2: Complete Story,"Jun 6, 2013",Overwhelmingly Positive,19.99,75,4.99
+44,Trine 3: The Artifacts of Power,"Aug 20, 2015",Mixed,21.99,75,5.49
+45,Trine Enchanted Edition,"Jul 2, 2009",Overwhelmingly Positive,14.99,75,3.74
+46,Lucy Got Problems,"Sep 28, 2018",Very Positive,7.99,51,3.91
+47,Enter The Gungeon Collector's Edition,N/A,Overwhelmingly Positive,22.46,0,22.46
+48,Nine Parchments,"Dec 5, 2017",Mostly Positive,19.99,75,4.99
+49,My Island,"Jan 30, 2019",Mostly Positive,14.99,60,5.99
