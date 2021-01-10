@@ -2,6 +2,13 @@
 
 ![](Steam_Data_Pipeline.png)
 
+## About: ##
+I always wanted to automate my daily routine of checking Steam.com and searching for daily discounts and deals on PC games. 
+Through the implementation of a data pipeline I was able to create a way to automate the reading of all the games on Steam's
+website and further sort games that I personally would potentially enjoy (e.g., games that are "free to play" that also have 
+"overwhelmingly positive" reviews). Once a list of games that I would enjoy is generated, an automated email is sent to me every
+morning containing new suggestions based on my search criteria.
+
 ## Project Description: ##
 This project utilizes various technologies like Apache Airflow, DAGs, Jupyter Notebook, Pandas, MySQL and AWS S3 to build
 an end to end data pipeline for extracting data using Web Scraping and then processing the data in the pipeline by using
@@ -25,3 +32,8 @@ The top 50 games from Steam's wesbite are webscraped and put into a csv file sho
   *	MySQL
   *	AWS S3
 
+## Implications: ##
+This data pipeline could be used by anyone interested in automating the routine of checking Steam.com for PC games that
+they themselves are interested in for example a Star Wars fan might only have the pipeline find games with "Star Wars" in 
+their title. Further implementation of this data pipeline could be applied to different websites to find certain items that are
+of interest.
