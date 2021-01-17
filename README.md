@@ -7,7 +7,7 @@ I always wanted to automate my daily routine of checking Steam.com and searching
 Through the implementation of a data pipeline I was able to create a way to automate the reading of all the games on Steam's
 website and further sort games that I personally would potentially enjoy (e.g., games that are "free to play" that also have 
 "overwhelmingly positive" reviews). Once a list of games that I would enjoy is generated, an automated email is sent to me every
-morning containing new suggestions based on my search crit
+morning containing new suggestions based on my search cri
 
 ## Project Description: ##
 This project utilizes various technologies like Apache Airflow, DAGs, Jupyter Notebook, Pandas, MySQL and AWS S3 to build
