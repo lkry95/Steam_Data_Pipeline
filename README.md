@@ -12,7 +12,7 @@ morning containing new suggestions based on my search criteria.
 ## Project Description: ##
 This project utilizes various technologies like Apache Airflow, DAGs, Jupyter Notebook, Pandas, MySQL and AWS S3 to build
 an end to end data pipeline for extracting data using Web Scraping and then processing the data in the pipeline by using
-Jupyter Notebook and Pandas. The final output is uploaded on an AWS S3 bucket. The pipeline is scheduled to run on a daily 
+Jupyter Notebook and Pandas. The final output is uploaded on an AWS S3 bucket. The pipeline is scheduled to run on a daily basis.
 
 ![](email_alert.png)
 
